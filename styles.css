@@ -13,7 +13,7 @@ a {
 
 #wrapper {
     width: 940px;
-    border: 2px solid black;
+    border: 2px solid #000205;
     margin: 20px auto;
     padding: 20px;
     background: #4a3c75;
@@ -21,7 +21,7 @@ a {
 }
 
 body {
-    background: black;
+    background: #000205;
 }
 
 
@@ -37,7 +37,7 @@ body {
 }
 
 .second {
-    background: green;
+    background: #237531;
     width: 300px;
     height: 100px;
     float: right;
@@ -83,7 +83,7 @@ body {
 }
 
 .sixth {
-    background: tan;
+    background: #a3936f;
     width: 300px;
     height: 100px;
     float: right;
@@ -96,21 +96,21 @@ body {
 
 h1 {
     text-align: center;
-    color: white;
-    background: black;
+    color: #fafafa;
+    background: #000205;
     padding: 20px;
     border-radius: 20px;
 }
 
 h3 {
-    color: white;
+    color: #fafafa;
     text-align: center;
 }
 
 footer {
     width: 940px;
     height: 50px;
-    background: black;
+    background: #000205;
     clear: both;
     border-radius: 20px;
 }
